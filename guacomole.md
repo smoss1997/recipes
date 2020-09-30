@@ -1,5 +1,5 @@
 # ingredients
 -Avocado
--Lemon
+-Lime
 -Salt
 #instructions
